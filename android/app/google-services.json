@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489675436750",
+    "project_id": "facemode-62efe",
+    "storage_bucket": "facemode-62efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489675436750:android:4d2fdbec7b25f89e6f169f",
+        "android_client_info": {
+          "package_name": "com.myviroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489675436750-dkdoafensp3o040rga1u03i30ice6smr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASh_nT3oL-tau-Y5FrLS72VhcdYBXA2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489675436750-dkdoafensp3o040rga1u03i30ice6smr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
